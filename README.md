@@ -1,17 +1,10 @@
-# CV
-CV and portfolio
 
 # CV - Jack Tierney
-I am a passionate Javascript and Node.js developer. I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I also have an eye for design and make artworks in my free time.
+I am a passionate Javascript and Node.js developer. I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I am also a very creative person, composing film music and playing the piano in my free time.
 
 # SKILLS
 
 I have been working on a variety of projects for clients, using the following technologies:
-
-
-PROJECTS
-
-
 
 
 |Languages   |Frameworks/libraries   |Testing | Tools/Other |Databases  |
@@ -22,10 +15,6 @@ PROJECTS
 | HTML5      | Sass                  |Qunit   | Github
 | Markdown   | React-Bootstrap       |        
 | Handlebars |                       |
-
-
-OPEN SOURCE CONTRIBUTIONS
-
 
 # HACKATHONS
 
@@ -58,9 +47,14 @@ As well as learning the skills outlined, I learned test driven development, agil
 I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
 
+OPEN SOURCE CONTRIBUTIONS
+
+
+
 EDUCATION
 
 BMus Hons Classical music 2:1 (Sep 2008 - Jul 2011) - University of Manchester
+
 
 LINKS
 
@@ -69,9 +63,9 @@ LINKS
 
 INTERESTS
 
-Learning
-Composing
-Music Production
-Internet Privacy
-Documentaries
-Cooking
+* Learning
+* Composing
+* Music Production
+* Internet Privacy
+* Documentaries
+* Cooking
