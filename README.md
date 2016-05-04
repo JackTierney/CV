@@ -11,13 +11,16 @@ I have been working on a variety of projects for clients, using the following te
 
 PROJECTS
 
-|Languages|   Frameworks/libraries   |Testing| Tools/Other| Databases |
-|----------  |:-------------:|------:|
+
+
+
+|Languages   |Frameworks/libraries   |Testing | Tools/Other |Databases  |
+|:----------:|:---------------------:|:------:|:-----------:|:---------:|
 | Javascript |React.js               |Mocha   | WebRTC |PostgreSQL  
 | Node.js    | Bootstrap             |Jasmine | Npm    |Redis
 | CSS3       | Hapi.js               |Tape/tap| Heroku |MongoDB
 | HTML5      | Sass                  |Qunit   | Github
-| Markdown   | React-Bootstrap       |        |
+| Markdown   | React-Bootstrap       |        
 | Handlebars |                       |
 
 
