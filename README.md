@@ -12,9 +12,10 @@ I have been working on a variety of projects for clients, using the following te
 | Javascript |React.js               |Mocha   | WebRTC |PostgreSQL  
 | Node.js    | Bootstrap             |Jasmine | Npm    |Redis
 | CSS3       | Hapi.js               |Tape/tap| Heroku |MongoDB
-| HTML5      | Sass                  |Qunit   | Github
-| Markdown   | React-Bootstrap       |        
-| Handlebars |                       |
+| HTML5      | Sass                  |Qunit   | Github | NoSql
+| Markdown   | React-Bootstrap       |Wrapping-tape   | Command Line
+| Wireframes |  Redux                |               |Chrome Dev Tools|
+| Handlebars |                    |  | Sockets.io               |
 
 ****************************************************************************
 # HACKATHONS
